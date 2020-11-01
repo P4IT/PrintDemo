@@ -1,0 +1,7 @@
+{
+  "name": "PrintDemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
